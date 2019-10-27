@@ -11,6 +11,6 @@ https://drive.google.com/open?id=167aQ5gTX04l4b1bngp7cIJIDnTJjbggU
 
 Chiron v1.2 with No ML (Username:elk   Password:password)
 Incorporates Elastic version 6.x and NMAP NSE Scripts looking for vulnerabilities
-Better identification of IoTs, Home AI
-Import then start, wait a few minutes then browse to http://IP:5601 . Cron Jobs are programmed within 4 hours. Nmap job once a day. To guide yourself into it browse to prebuilt dashboards
+Better identification of IoTs, Home AI.
+Import the ova then start it up, wait a few minutes then browse to http://IP:5601 . Cron Jobs are programmed within 4 hours. Nmap job once a day. To guide yourself into it browse to prebuilt dashboards
 OVA --> 
